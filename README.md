@@ -1,4 +1,5 @@
 - Jonathan Cvinar 
 - Coffee/Code/Dogs
+- Golf/Ski/Scuba
 - Java advocate + interested in ML
 - joncvinar@gmail.com
