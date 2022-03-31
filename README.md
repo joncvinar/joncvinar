@@ -1,5 +1,5 @@
 - Jonathan Cvinar 
-- Coffee/Code/Dogs
-- Golf/Ski/Scuba
-- Java advocate + interested in ML
+- Code instructor
+- Java/Python/C/C#/Scala/BASH/PowerShell
+- Golf/Ski/Scuba/Rock Climbing
 - joncvinar@gmail.com
