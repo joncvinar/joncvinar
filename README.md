@@ -1,4 +1,3 @@
-- Jonathan Cvinar 
 - Code instructor
 - Java/Python/C/C#/Scala/BASH/PowerShell
 - Golf/Ski/Scuba/Rock Climbing
