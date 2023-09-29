@@ -1,4 +1,4 @@
-- Code instructor
+- NYU Computer Engineer, MS
 - Java/Python/C/C#/Scala/BASH/PowerShell
 - Golf/Ski/Scuba/Rock Climbing
 - joncvinar@gmail.com
