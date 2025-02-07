@@ -1,4 +1,4 @@
 - NYU Computer Engineering, MS
 - Java/Python/C/C#/Scala/BASH/PowerShell
-- Golf/Ski/Scuba/Rock Climbing
+- Golf/Ski/Scuba/Rock Climbing/Cycling
 - joncvinar@gmail.com
